@@ -1,6 +1,5 @@
 # Project: MADB
 CSE6242 Spring 2021 Project
-TEAM: VIZ THIS
 
 A more informational manual can be found on the launched website
 at 127.0.0.1:5000/how-it-works.html
